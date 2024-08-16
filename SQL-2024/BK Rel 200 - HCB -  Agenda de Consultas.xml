@@ -1,0 +1,971 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<Relatorios>
+  <Tabelas>
+    <Tabela nm_tabela="W_RELATORIO">
+      <campos> 
+        <campo nm_atributo="CD_CGC_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_PAIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_WHEB" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_WHEB" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_VERSION" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_ACTION_NAME" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PROCEDURE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REPORT_TITLE_CUSTOM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_LAST_MODIFICATION" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_AUTO_AJUSTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CHAMADA_DIRETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ETIQUETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_EXCEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_HTML" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_TEXTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_WORD" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_BASE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_PAPEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_MOD_IMPL" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_MODULO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_VERSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESPACO_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_LARGURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_DIR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_ESQ" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_INF" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_SUP" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TITULO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_CGC_CLIENTE="87768735000148" CD_CLASSIF_RELAT="CATE" CD_CLASSIF_RELAT_PAIS="" CD_CLASSIF_RELAT_WHEB="WATE" CD_PAIS="" CD_RELATORIO="200" CD_RELATORIO_PAIS="" CD_RELATORIO_WHEB="518" CD_VERSION="27531" DS_ACTION_NAME="" DS_COR_FUNDO="clWhite" DS_PROCEDURE="" DS_REPORT_TITLE_CUSTOM="" DT_ATUALIZACAO="14/09/2022 09:39:09" DT_LAST_MODIFICATION="14/09/2022 09:39:09" IE_AJUSTAR_TAMANHO="" IE_AUTO_AJUSTE="" IE_BORDA_DIR="S" IE_BORDA_ESQ="S" IE_BORDA_INF="S" IE_BORDA_SUP="S" IE_CHAMADA_DIRETA="" IE_ETIQUETA="N" IE_FILTRO_EXCEL="S" IE_FILTRO_HTML="N" IE_FILTRO_TEXTO="S" IE_FILTRO_WORD="S" IE_GERAR_BASE="S" IE_GERAR_RELATORIO="S" IE_IMPRIME_VAZIO="S" IE_ORIENTACAO="R" IE_TIPO_PAPEL="A4" IE_TIPO_RELATORIO="" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_MOD_IMPL="283" NR_SEQ_MODULO="128" NR_SEQ_ORDEM_SERV="" NR_SEQUENCIA="2855715" NR_VERSAO="" QT_ALTURA="" QT_COLUNA="1" QT_ESPACO_COLUNA="0" QT_LARGURA="" QT_MARGEM_DIR="10" QT_MARGEM_ESQ="10" QT_MARGEM_INF="20" QT_MARGEM_SUP="10" >
+          <DS_SQL><![CDATA[select	1 
+from	dual]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_TITULO><![CDATA[HCB -  Agenda de Consultas]]></DS_TITULO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELATORIO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FOOTER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_HEADER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_ALTERNA_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BANDA_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DIRECTION" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FUNDO_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_PRIMEIRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_REIMPRIME_NOVA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA_SUPERIOR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MAX_REGISTRO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="29/11/2011 16:29:38" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="S" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="S" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="C" NM_TABELA="" NM_USUARIO="ANTONIOC" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630337" QT_ALTURA="70" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Cabeçalho]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clSilver" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="26/07/2022 14:52:56" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="S" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="F" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="3" NR_SEQ_BANDA_SUPERIOR="6630337" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630338" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Títulos]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="26/07/2022 14:55:55" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="S" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="4" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630339" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 	distinct
+	substr(obter_nome_medico_combo_agcons(:cd_estabelecimento, b.cd_agenda, 3, 'N'),1,255) nm_medico,
+	b.cd_agenda cd_medico_par,
+	a.ie_status_agenda status_sup
+from 	agenda b,
+        	agenda_consulta_v a
+where 	a.dt_agenda 		between  :dt_inicial and  :dt_final
+  and 	((:cd_medico_param = '0')	or (b.cd_pessoa_fisica 	= :cd_medico_param ))
+  and 	((:cd_convenio = 0)		or (a.cd_convenio		= :cd_convenio))
+  and 	((:ie_status_agenda  = '0')	or (a.ie_status_agenda 	= :ie_status_agenda))
+  and 	((:ie_classif_agenda  = '0')	or (a.ie_classif_agenda 	= :ie_classif_agenda))
+  and	('S'			= :ie_quebra)
+  and 	a.cd_agenda 		= b.cd_agenda
+  and	((:cd_agenda = 0) or (b.cd_agenda		= :cd_agenda))
+  and 	((nvl(:cd_especialidade,0) = 0)	or (b.cd_especialidade		= :cd_especialidade))
+ and 	((:cd_setor_agenda  = '0')	or (b.cd_setor_agenda 	= :cd_setor_agenda ))
+order by 	1]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Médico Quebra]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="14/09/2022 08:58:26" IE_ALTERNA_COR_FUNDO="S" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="5" NR_SEQ_BANDA_SUPERIOR="6630339" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630340" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 	a.nr_sequencia nr_sequencia_p,
+	a.dt_agenda,
+	Obter_classif_agenda_consulta(a.IE_CLASSIF_AGENDA) DS_AGENDA,
+	a.ds_status_agenda,
+	a.nr_minuto_duracao,
+	a.nr_telefone_celular,
+	a.ds_convenio,
+	a.ds_classif_agenda,
+	a.nm_usuario,
+       	b.ds_agenda,
+       	a.nm_pessoa_fisica  nm_pacientes,
+	a.cd_pessoa_fisica,
+	a.ds_observacao ds_observacao,
+	Obter_Municipio_pf(a.cd_pessoa_fisica) ds_municipio,
+    	obter_desc_motivo_falta_ag(a.NR_SEQ_MOTIVO_FALTA) ds_motivo_falta,
+    	a.DS_MOTIVO_STATUS ds_motivo_p
+from 	Agenda b,
+        	Agenda_Consulta_v a
+where 	a.dt_agenda between 	:dt_inicial and :dt_final
+  and 	((:cd_convenio = 0)		or (a.cd_convenio		= :cd_convenio))
+  and 	((:ie_status_agenda  = '0')	or (a.ie_status_agenda 	= :ie_status_agenda))
+  and 	((:ie_classif_agenda  = '0')	or (a.ie_classif_agenda 	= :ie_classif_agenda))
+  and	((:nm_usuario = '0') 		or (a.nm_usuario = :nm_usuario))
+  and 	(b.cd_agenda	 	= :cd_medico_par)
+  and 	a.cd_agenda 		= b.cd_agenda
+ and 	((:cd_setor_agenda  = '0')	or (b.cd_setor_agenda 	= :cd_setor_agenda ))
+order by 	a.dt_agenda]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Dados Agenda]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="26/07/2022 14:56:57" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630341" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 	distinct
+	substr(obter_nome_medico_combo_agcons(:cd_estabelecimento, a.cd_agenda, 3, 'N'),1,255) nm_medico,
+	b.cd_agenda  cd_medico_par
+from 	Agenda b,
+        	Agenda_Consulta_v a
+where 	a.dt_agenda 		between  :dt_inicial and  :dt_final
+  and 	((:cd_medico_param = '0')	or (b.cd_pessoa_fisica 	= :cd_medico_param ))
+  and 	((:cd_convenio = 0)		or (a.cd_convenio		= :cd_convenio))
+  and 	((:ie_status_agenda  = '0')	or (a.ie_status_agenda 	= :ie_status_agenda))
+  and 	((:ie_classif_agenda  = '0')	or (a.ie_classif_agenda 	= :ie_classif_agenda))
+  and	('N'			= :ie_quebra)
+  and 	a.cd_agenda 		= b.cd_agenda
+  and	((:cd_agenda = 0) or (a.cd_agenda		= :cd_agenda))
+  and 	((nvl(:cd_especialidade,0) = 0)	or (b.cd_especialidade		= :cd_especialidade))
+ and 	((:cd_setor_agenda  = '0')	or (b.cd_setor_agenda 	= :cd_setor_agenda ))
+order by 1]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Médico Sem Quebra]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="14/09/2022 08:58:37" IE_ALTERNA_COR_FUNDO="S" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA_SUPERIOR="6630341" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630342" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 	a.nr_sequencia nr_sequencia_p,
+	a.dt_agenda,
+	Obter_classif_agenda_consulta(a.IE_CLASSIF_AGENDA) DS_AGENDA,
+	a.ds_status_agenda,
+	a.nr_minuto_duracao,
+	a.nr_telefone_celular,
+	a.ds_convenio,
+	a.ds_classif_agenda,
+	a.nm_usuario,
+       	b.ds_agenda,
+       	a.nm_pessoa_fisica  nm_pacientes,
+	a.cd_pessoa_fisica,
+	a.ds_observacao ds_observacao,
+	Obter_Municipio_pf(a.cd_pessoa_fisica) ds_municipio,
+    	obter_desc_motivo_falta_ag(a.NR_SEQ_MOTIVO_FALTA) ds_motivo_falta,
+    	a.DS_MOTIVO_STATUS
+from 	Agenda b,
+        	Agenda_Consulta_v a
+where 	a.dt_agenda between 	:dt_inicial and :dt_final
+  and 	((:cd_convenio = 0)		or (a.cd_convenio		= :cd_convenio))
+  and 	((:ie_status_agenda  = '0')	or (a.ie_status_agenda 	= :ie_status_agenda))
+  and 	((:ie_classif_agenda  = '0')	or (a.ie_classif_agenda 	= :ie_classif_agenda))
+  and	((:nm_usuario = '0') 		or (a.nm_usuario = :nm_usuario))
+  and 	(b.cd_agenda	 	= :cd_medico_par)
+  and 	a.cd_agenda 		= b.cd_agenda
+ and 	((:cd_setor_agenda  = '0')	or (b.cd_setor_agenda 	= :cd_setor_agenda ))
+order by 	a.dt_agenda]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Dados Agenda sem Quebra]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="14/09/2022 08:21:59" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="S" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="S" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="R" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="15" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6630343" QT_ALTURA="20" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Rodapé]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="14/09/2022 09:08:39" IE_ALTERNA_COR_FUNDO="S" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="X" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA_SUPERIOR="6630340" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6636358" QT_ALTURA="18" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 	
+	'*' ||' '||a.DS_MOTIVO_STATUS ds_motivo
+from 
+        	Agenda_Consulta_v a
+where 	
+   :ie_status_agenda in  ('F', 'I' )
+   and  a.nr_sequencia= :nr_sequencia_p
+   and a.DS_MOTIVO_STATUS is not null]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Motivo falta quebra]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="14/09/2022 09:08:28" IE_ALTERNA_COR_FUNDO="S" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="X" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA_SUPERIOR="6630342" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="6636359" QT_ALTURA="18" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 	
+	'*' ||' '||a.DS_MOTIVO_STATUS ds_motivo
+from 
+        	Agenda_Consulta_v a
+where 	
+   :ie_status_agenda in  ('F', 'I' )
+   and  a.nr_sequencia= :nr_sequencia_p
+   and a.DS_MOTIVO_STATUS is not null]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Motivo falta sem quebra]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_CAMPO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ESTILO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TIPO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAMENTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAR_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALTERA_VALOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CAMPO_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATAMATRIX_MODULE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATE_TYPE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_HUMANO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_INFO_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_METODO_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_POSICAO_LEGENDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SENSIVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="IE_TOTALIZAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ZERA_APOS_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TIME_ZONE_ATTRIBUTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOGO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="PR_ALTURA_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESQUERDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_FONTE_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_FONTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TOPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/11/2011 16:29:38" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="17" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DT_INICIAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="ANTONIOC" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6630337" NR_SEQ_LOGO="" NR_SEQUENCIA="30416693" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="225" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="50" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[De]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[De:]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/11/2011 16:29:38" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="17" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DT_FINAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="ANTONIOC" NR_SEQ_APRESENTACAO="2" NR_SEQ_BANDA="6630337" NR_SEQ_LOGO="" NR_SEQUENCIA="30416694" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="350" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="50" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[até]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[até:]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="30/11/2011 13:35:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="tbyegmann" NR_SEQ_APRESENTACAO="2" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416695" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="48" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Data / Hora]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Data / Hora]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="15/02/2022 17:08:45" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="DIOGNES" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416696" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="123" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Paciente]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Paciente]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:00:02" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="8" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416697" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="345" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Convênio]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Convênio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:26:23" IE_AJUSTAR_TAMANHO="S" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="11" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416698" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="620" QT_FONTE_BARCODE="100" QT_TAMANHO="80" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Observação]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Observação]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="30/11/2011 13:35:02" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="tbyegmann" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416699" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="50" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Médico]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Médico]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:00:16" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416700" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="418" QT_FONTE_BARCODE="100" QT_TAMANHO="85" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Classificação]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Classificação]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 13:59:30" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416821" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="275" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Município]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Município]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:01:50" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416822" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[select 'Motivo falta ' from dual where :ie_status_agenda in ('F', 'I' )]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Motivo Falta]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:23:30" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="6630338" NR_SEQ_LOGO="" NR_SEQUENCIA="30416823" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="110" QT_TAM_FONTE="8" QT_TOPO="0" >
+          <DS_SQL><![CDATA[select '  ' from dual where :ie_status_agenda not in  ('F', 'I' )]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Motivo Falta vazio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/11/2011 16:29:38" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_MEDICO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="ANTONIOC" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6630339" NR_SEQ_LOGO="" NR_SEQUENCIA="30416701" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="400" QT_TAM_FONTE="9" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Médico]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="15/02/2022 17:10:58" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DT_AGENDA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="DIOGNES" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416702" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="48" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Data / Hora]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[dd/mm hh:mm]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="15/02/2022 17:11:03" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_PACIENTES" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="DIOGNES" NR_SEQ_APRESENTACAO="4" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416703" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="123" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Paciente]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:26:37" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="S" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_OBSERVACAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416704" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="620" QT_FONTE_BARCODE="100" QT_TAMANHO="80" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Observacao]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:06:43" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_CONVENIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416705" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="345" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Convenio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:07:18" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_AGENDA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416706" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="418" QT_FONTE_BARCODE="100" QT_TAMANHO="85" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[DS_AGENDA]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:06:19" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MUNICIPIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="5" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416824" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="275" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb municipio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:20:17" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MOTIVO_FALTA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="8" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416825" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[select DS_MOTIVO_FALTA from dual where :ie_status_agenda in  ('F', 'I' )]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb motivo falta]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:21:30" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="8" NR_SEQ_BANDA="6630340" NR_SEQ_LOGO="" NR_SEQUENCIA="30416826" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="110" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[select '  ' from dual where :ie_status_agenda not in ('F', 'I' )]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb motivo falta vazio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/11/2011 16:29:38" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_MEDICO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="ANTONIOC" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6630341" NR_SEQ_LOGO="" NR_SEQUENCIA="30416707" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="400" QT_TAM_FONTE="9" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Médico]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="15/02/2022 17:13:06" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DT_AGENDA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="DIOGNES" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416708" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="48" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Data / Hora]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[dd/mm hh:mm]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="15/02/2022 17:13:07" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_PACIENTES" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="DIOGNES" NR_SEQ_APRESENTACAO="5" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416709" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="123" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Paciente]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:26:54" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="S" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_OBSERVACAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416710" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="620" QT_FONTE_BARCODE="100" QT_TAMANHO="80" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Observacao]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:17:00" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_CONVENIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416711" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="345" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Convenio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:17:07" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_AGENDA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="8" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416712" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="418" QT_FONTE_BARCODE="100" QT_TAMANHO="85" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[DS_AGENDA]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:14:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MUNICIPIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416827" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="275" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Municipio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="26/07/2022 14:17:46" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MOTIVO_FALTA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416828" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[select DS_MOTIVO_FALTA from dual where :ie_status_agenda in  ('F', 'I' )]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb motivo falta]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:24:20" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA="6630342" NR_SEQ_LOGO="" NR_SEQUENCIA="30416829" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="110" QT_TAM_FONTE="6" QT_TOPO="0" >
+          <DS_SQL><![CDATA[select '  ' from dual where :ie_status_agenda not in ('F', 'I' )]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb motivo falta vazio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:23:56" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MOTIVO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6636358" NR_SEQ_LOGO="" NR_SEQUENCIA="30461484" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="110" QT_TAM_FONTE="6" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Descrição Motivo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="14/09/2022 09:24:05" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MOTIVO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="MARILIASF" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6636359" NR_SEQ_LOGO="" NR_SEQUENCIA="30461485" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="505" QT_FONTE_BARCODE="100" QT_TAMANHO="110" QT_TAM_FONTE="6" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Descriçao motivo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_PARAMETRO">
+      <campos> 
+        <campo nm_atributo="CD_DOMINIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ALIAS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA_BKP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_VALOR_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_FORMA_APRESENT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FORMA_PASSAGEM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_MULTI_LINHA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OBRIGATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIGEM_INFORMACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_IN" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_LINHA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_APRESENT" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOCALIZAR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA_HTML" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_BYTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_SPAN" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="VL_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="VL_PADRAO_TESTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DT_INICIAL" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Data Inicial" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="DATE" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="1" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525336" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="110" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[dd/mm/yyyy hh:mm:ss]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DT_FINAL" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Data Final" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="DATE" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="2" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525337" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="110" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[dd/mm/yyyy hh:mm:ss]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_MEDICO_PARAM" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Médico" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="3" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525338" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select	m.cd_pessoa_fisica  cd,
+	p.nm_pessoa_fisica ds
+from	medico m,
+	pessoa_fisica p
+where	p.cd_pessoa_fisica  = m.cd_pessoa_fisica
+order by	2]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_CONVENIO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Convênio" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="4" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525339" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select cd_convenio cd,
+           ds_convenio ds
+from convenio
+order by 2]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="1006" CD_PARAMETRO="IE_CLASSIF_AGENDA" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Classificação da Agenda" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="5" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525340" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="83" CD_PARAMETRO="IE_STATUS_AGENDA" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Status Agenda" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="12/12/2013 15:00:57" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="GUILHERME" NR_LINHA="" NR_SEQ_APRESENT="6" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525341" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="N" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="IE_QUEBRA" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Quebra página por Agenda" DS_VALOR_PARAMETRO="S,N" DT_ATUALIZACAO="30/11/2011 13:22:21" IE_FORMA_APRESENT="cb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="tbyegmann" NR_LINHA="" NR_SEQ_APRESENT="7" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525342" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="200" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="N" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="NM_USUARIO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Usuário" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="8" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525343" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="150" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select	nm_usuario cd,
+	nm_usuario ds
+from	usuario
+where	ie_situacao = 'A'
+order by   2]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_AGENDA" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Agenda/Local" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="30/11/2011 13:31:39" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="tbyegmann" NR_LINHA="" NR_SEQ_APRESENT="9" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525344" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select	distinct
+	a.cd_agenda cd, 
+	substr(obter_nome_medico_combo_agcons(:cd_estabelecimento, a.cd_agenda, 3, 'N'),1,255) ds
+from	agenda a
+where	a.cd_tipo_agenda	= 3
+and	a.ie_situacao 		= 'A'
+and	a.cd_estabelecimento 	= :cd_estabelecimento
+order by	ds]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_ESPECIALIDADE" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Especialidade" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/11/2011 16:29:39" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="ANTONIOC" NR_LINHA="" NR_SEQ_APRESENT="10" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525345" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select	e.cd_especialidade cd,
+	ds_especialidade ds
+from	especialidade_medica e
+where	(ie_situacao = 'A')
+order by	ds_especialidade]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_SETOR_AGENDA" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Setor Agendamento" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="26/07/2022 14:19:30" IE_FORMA_APRESENT="lcb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="N" NM_USUARIO="MARILIASF" NR_LINHA="" NR_SEQ_APRESENT="12" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="3525369" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="300" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select cd_setor_atendimento cd,
+           ds_setor_atendimento ds
+from setor_atendimento
+where ie_situacao = 'A'
+order by 2]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_FUNCAO">
+      <campos> 
+        <campo nm_atributo="CD_FUNCAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CONFIGURAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_EXIGE_PERFIL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LIBERADO_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LOGO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COPIA" ie_tipo_atributo="NUMBER"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_FUNCAO_REGRA_RELAT">
+      <campos> 
+        <campo nm_atributo="CD_ESTABELECIMENTO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_REGRA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL_VALIDACAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_ETIQUETA">
+      <campos> 
+        <campo nm_atributo="DS_CAMPOS_IDENT_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPOS_SENSIVEIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_IMPRESSORA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_DOCUMENTACAO">
+      <campos> 
+        <campo nm_atributo="CD_DOCUMENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBJETIVO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_CLASSIFICACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_TIPO_CLASSIFICACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NM_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOCUMENTACAO="200" CD_PF_CRIADOR="84161" CD_PF_SOLIC="150554" DS_OBJETIVO="Verificar o motivo da falta do paciente
+
+Adicionar colunas Municipio e Motivo Falta
+
+Filtros que deverão ser adicionados:
+-Setor atendimento
+-Multiseleção do campo status agenda
+
+Campos que deverão ser adicionados no relatório:
+- motivo falta apenas quando status foi Falta Justificada ou falta não justificada" DS_OBSERVACAO="Foi acrescentado o campo municipio e motivo falta apenas quando o status for Falta Justificada ou falta não justificada
+Não foi possível readequar o status para um parametro multiseleção, pois seria necessário mais bandas deixando o relatório lento, bem como não vincularia o campo Motivo Falta apenas para o status especificos.
+
+Acrecentado parametro setor para o usuário poder filtrar todos os médicos do setor selecionado, exemplo todos os médicos da oncologia. 
+" DT_ATUALIZACAO="27/07/2022 11:34:21" DT_ATUALIZACAO_NREC="27/07/2022 11:27:37" DT_CLASSIFICACAO="26/07/2022" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="MARILIASF" NM_USUARIO_NREC="MARILIASF" NR_SEQ_ORDEM_SERV="108291" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="72" NM_PF_SOLIC="CLAUDIANE APARECIDA RIBEIRO PEREIRA" NM_PF_CRIADOR="MARILIA SOARES FELIX" />
+        <registro CD_DOCUMENTACAO="200" CD_PF_CRIADOR="84161" CD_PF_SOLIC="150554" DS_OBJETIVO="Campo observação com descrição específica do motivo da falta, este é decsrito pelo colaborador no campo abaixo do motivo (Observações)" DS_OBSERVACAO="Foi realizada uma nova banda 'Motivo Falta Quebra' e 'Motivo fata sem quebra' quando existir motivo de falta, pois ao lado ficaria inviavel por conta do espaço da folha pois já possui muitas informações.
+
+select do subdetalhe:
+select 	
+	'*' ||' '||a.DS_MOTIVO_STATUS ds_motivo
+from 
+        	Agenda_Consulta_v a
+where 	
+   :ie_status_agenda in  ('F', 'I' )
+   and  a.nr_sequencia= :nr_sequencia_p
+   and a.DS_MOTIVO_STATUS is not null" DT_ATUALIZACAO="14/09/2022 09:39:09" DT_ATUALIZACAO_NREC="14/09/2022 09:30:23" DT_CLASSIFICACAO="14/09/2022" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="MARILIASF" NM_USUARIO_NREC="MARILIASF" NR_SEQ_ORDEM_SERV="111216" NR_SEQ_RELATORIO="2855715" NR_SEQUENCIA="84" NM_PF_SOLIC="CLAUDIANE APARECIDA RIBEIRO PEREIRA" NM_PF_CRIADOR="MARILIA SOARES FELIX" />
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_VARIAVEL">
+      <campos> 
+        <campo nm_atributo="DS_VALOR_INICIAL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CLASSE_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OPERACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+  </Tabelas>
+</Relatorios>

@@ -1,0 +1,27 @@
+- REGULAÇÃO DE ATENDIMENTOS
+- GERENCIAMENTO PARA INTEGRAÇÃO 
+- xencenter>rebootnow>start
+
+SERVIDOR HOMOLOGAÇÃO  17.170
+SERVIDOR PRODUÇÃO     17.171
+
+PROCEDURE:  EXEC PROCESSAR_RETORNO_INT_GERINT(nr_sequenciA)
+
+COMO VERIFICAR LOG NA FUNÇÃO GERENCIAMENTO DE INTEGRAÇÃO  
+> ABA INTEGRAÇÃO PADRÃO
+> SUBABA>MENSAGEM RETORNADA 
+
+
+O processo funciona da seguinte forma:
+1. Abertura do atendimento ambulatorial
+2. Médico preenche laudo SUS no atendimento ambulatorial
+3. É disparado automaticamemente (Soliticação de internação) 
+na função regualção de atendimentos
+4. Usuário entra na regulação de atendimento
+5. Seleciona  a solicitaçãode internação
+6. Botão direito e gerar atendimento 
+7. Encerra o atendimento ambulatorial
+5. Não era possivel puxar do gerinte atendimento de outros hospitais processo era cadastrado manualmente.
+6. Apartir 07/03/2024 foi realizado ajuste aonde usuário vai na função regualção de atendimento.
+8. TASY STATUS FICA COMO (VERDE)INTERNAÇÃO AUTORIZADA(STATUS:NÃO AUTORIZADO)
+

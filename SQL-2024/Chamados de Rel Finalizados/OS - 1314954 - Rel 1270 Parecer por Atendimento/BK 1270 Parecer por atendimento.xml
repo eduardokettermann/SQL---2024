@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<Relatorios>
+  <Tabelas>
+    <Tabela nm_tabela="W_RELATORIO">
+      <campos> 
+        <campo nm_atributo="CD_CGC_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_PAIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_WHEB" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_WHEB" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_VERSION" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_ACTION_NAME" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PROCEDURE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REPORT_TITLE_CUSTOM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_LAST_MODIFICATION" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_AUTO_AJUSTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CHAMADA_DIRETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ETIQUETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_EXCEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_HTML" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_TEXTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_WORD" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_BASE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_PAPEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_MOD_IMPL" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_MODULO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_VERSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESPACO_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_LARGURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_DIR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_ESQ" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_INF" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_SUP" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TITULO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_CGC_CLIENTE="87768735000148" CD_CLASSIF_RELAT="CATE" CD_CLASSIF_RELAT_PAIS="" CD_CLASSIF_RELAT_WHEB="" CD_PAIS="" CD_RELATORIO="1270" CD_RELATORIO_PAIS="" CD_RELATORIO_WHEB="" CD_VERSION="20277" DS_ACTION_NAME="" DS_COR_FUNDO="clWhite" DS_PROCEDURE="" DS_REPORT_TITLE_CUSTOM="" DT_ATUALIZACAO="01/07/2020 08:54:57" DT_LAST_MODIFICATION="01/07/2020 08:54:57" IE_AJUSTAR_TAMANHO="" IE_AUTO_AJUSTE="" IE_BORDA_DIR="S" IE_BORDA_ESQ="S" IE_BORDA_INF="S" IE_BORDA_SUP="S" IE_CHAMADA_DIRETA="" IE_ETIQUETA="N" IE_FILTRO_EXCEL="S" IE_FILTRO_HTML="S" IE_FILTRO_TEXTO="S" IE_FILTRO_WORD="S" IE_GERAR_BASE="S" IE_GERAR_RELATORIO="S" IE_IMPRIME_VAZIO="M" IE_ORIENTACAO="R" IE_TIPO_PAPEL="A4" IE_TIPO_RELATORIO="" NM_TABELA="" NM_USUARIO="JOSEO" NR_SEQ_MOD_IMPL="" NR_SEQ_MODULO="15" NR_SEQ_ORDEM_SERV="" NR_SEQUENCIA="2848444" NR_VERSAO="" QT_ALTURA="" QT_COLUNA="1" QT_ESPACO_COLUNA="0" QT_LARGURA="" QT_MARGEM_DIR="8" QT_MARGEM_ESQ="8" QT_MARGEM_INF="20" QT_MARGEM_SUP="10" >
+          <DS_SQL><![CDATA[select 1 from dual]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_TITULO><![CDATA[HCB - Total de Parecer por Atendimento Sem Quebra]]></DS_TITULO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELATORIO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FOOTER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_HEADER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_ALTERNA_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BANDA_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DIRECTION" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FUNDO_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_PRIMEIRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_REIMPRIME_NOVA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA_SUPERIOR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MAX_REGISTRO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="S" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="S" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="C" NM_TABELA="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="6558342" QT_ALTURA="80" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 'Data Inicial: '|| :dt_inicial data_inicial, 'Data Final: '|| :dt_final data_final
+from dual]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Cabecalho]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="clWhite" DS_OBSERVACAO="" DT_ATUALIZACAO="01/07/2020 08:53:37" IE_ALTERNA_COR_FUNDO="S" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="X" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="12" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="6558345" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select 
+X.NR_ATENDIMENTO NR_ATENDIMENTO,
+X.tipo_evolucao,
+X.vl_totaL 
+from
+(
+select
+distinct nvl(SUBSTR(a.NR_ATENDIMENTO,1,255),'Pront:'||Obter_Prontuario_Paciente(A.CD_PESSOA_FISICA))NR_ATENDIMENTO,
+a.IE_EVOLUCAO_CLINICA CD_EVOLUCAO_CLINICA,
+Obter_Convenio_Atendimento(a.NR_ATENDIMENTO)cd_convenio,
+b.DS_TIPO_EVOLUCAO tipo_evolucao,
+count(a.IE_EVOLUCAO_CLINICA) vl_totaL
+from TIPO_EVOLUCAO b, evolucao_paciente_lib_v a
+where 
+b.CD_TIPO_EVOLUCAO = a.IE_EVOLUCAO_CLINICA
+AND A.IE_SITUACAO = 'A'
+and a.DT_LIBERACAO  between  :DT_INICIAL and FIM_DIA(:DT_FINAL) 
+
+group by a.IE_EVOLUCAO_CLINICA, Obter_Convenio_Atendimento(a.NR_ATENDIMENTO), nvl(SUBSTR(a.NR_ATENDIMENTO,1,255),'Pront:'||Obter_Prontuario_Paciente(A.CD_PESSOA_FISICA)), 
+b.DS_TIPO_EVOLUCAO
+
+
+) x
+where 1 = 1
+@SQL_WHERE
+and :tipo_relatorio = 'S'
+ORDER BY X.NR_ATENDIMENTO]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Dados Evolução  Sintético]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="clWhite" DS_OBSERVACAO="" DT_ATUALIZACAO="01/07/2020 08:54:57" IE_ALTERNA_COR_FUNDO="S" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="X" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="13" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="6558346" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select DISTINCT 
+X.NR_ATENDIMENTO NR_ATENDIMENTO,
+X.tipo_evolucao,
+X.vl_totaL,
+X.NM_PACIENTE,
+X.ds_convenio
+from
+(select distinct
+nvl(SUBSTR(a.NR_ATENDIMENTO,1,255),'Pront:'||Obter_Prontuario_Paciente(A.CD_PESSOA_FISICA))NR_ATENDIMENTO,
+max(A.DT_LIBERACAO),
+a.IE_EVOLUCAO_CLINICA CD_EVOLUCAO_CLINICA,
+OBTER_NOME_PESSOA_FISICA(a.CD_PESSOA_FISICA, null)NM_PACIENTE,
+Obter_Convenio_Atendimento(a.NR_ATENDIMENTO)cd_convenio,
+Obter_Nome_Convenio(Obter_Convenio_Atendimento(a.NR_ATENDIMENTO))ds_convenio,
+b.DS_TIPO_EVOLUCAO tipo_evolucao,
+count(a.IE_EVOLUCAO_CLINICA) vl_totaL
+from TIPO_EVOLUCAO b, evolucao_paciente_lib_v a
+where 
+b.CD_TIPO_EVOLUCAO = a.IE_EVOLUCAO_CLINICA
+AND A.IE_SITUACAO = 'A'
+and a.DT_LIBERACAO  between  :DT_INICIAL and FIM_DIA(:DT_FINAL) 
+and (select distinct
+min(DT_LIBERACAO)
+from evolucao_paciente_lib_v
+where DT_LIBERACAO between :DT_INICIAL and FIM_DIA(:DT_FINAL)
+and IE_EVOLUCAO_CLINICA = a.IE_EVOLUCAO_CLINICA 
+and Nr_Atendimento = a.nr_atendimento) = a.DT_LIBERACAO
+group by a.IE_EVOLUCAO_CLINICA, OBTER_NOME_PESSOA_FISICA(a.CD_PESSOA_FISICA, null), Obter_Convenio_Atendimento(a.NR_ATENDIMENTO), 
+Obter_Nome_Convenio(Obter_Convenio_Atendimento(a.NR_ATENDIMENTO)), nvl(SUBSTR(a.NR_ATENDIMENTO,1,255),'Pront:'||Obter_Prontuario_Paciente(A.CD_PESSOA_FISICA)), b.DS_TIPO_EVOLUCAO 
+) x
+where 1 = 1
+@SQL_WHERE
+and :tipo_relatorio = 'A'
+ORDER BY X.NR_ATENDIMENTO]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Dados Evolução  Analítico]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="S" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="S" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="" IE_TIPO_BANDA="R" NM_TABELA="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="30" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="6558347" QT_ALTURA="17" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Rodapé]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_CAMPO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ESTILO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TIPO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAMENTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAR_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALTERA_VALOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CAMPO_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATAMATRIX_MODULE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATE_TYPE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_HUMANO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_INFO_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_METODO_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_POSICAO_LEGENDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SENSIVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="IE_TOTALIZAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ZERA_APOS_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TIME_ZONE_ATTRIBUTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOGO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="PR_ALTURA_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESQUERDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_FONTE_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_FONTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TOPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DATA_INICIAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="6558342" NR_SEQ_LOGO="" NR_SEQUENCIA="29925820" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="260" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="55" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Data_Inicial]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DATA_FINAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="2" NR_SEQ_BANDA="6558342" NR_SEQ_LOGO="" NR_SEQUENCIA="29925821" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="380" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="55" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Data_final]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="S" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="VL_TOTAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="20" NR_SEQ_BANDA="6558345" NR_SEQ_LOGO="" NR_SEQUENCIA="29925824" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="320" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Vl total]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Total]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[###,###,###,##0.00]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_ATENDIMENTO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="6558345" NR_SEQ_LOGO="" NR_SEQUENCIA="29925825" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="0" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Nr atendimento]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Atendimento]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="TIPO_EVOLUCAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="15" NR_SEQ_BANDA="6558345" NR_SEQ_LOGO="" NR_SEQUENCIA="29925826" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="110" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Tipo evolucao]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Evolução]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="S" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_CONVENIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="22" NR_SEQ_BANDA="6558346" NR_SEQ_LOGO="" NR_SEQUENCIA="29925827" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="500" QT_FONTE_BARCODE="100" QT_TAMANHO="120" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Convênio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Convênio]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_ATENDIMENTO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="6558346" NR_SEQ_LOGO="" NR_SEQUENCIA="29925828" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="0" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Nr atendimento]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Atendimento]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="TIPO_EVOLUCAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="15" NR_SEQ_BANDA="6558346" NR_SEQ_LOGO="" NR_SEQUENCIA="29925829" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="110" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Tipo evolucao]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Evolução]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="S" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_PACIENTE" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="JOSEO" NR_SEQ_APRESENTACAO="20" NR_SEQ_BANDA="6558346" NR_SEQ_LOGO="" NR_SEQUENCIA="29925830" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="270" QT_FONTE_BARCODE="100" QT_TAMANHO="220" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Paciente]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[Paciente]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_PARAMETRO">
+      <campos> 
+        <campo nm_atributo="CD_DOMINIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ALIAS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA_BKP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_VALOR_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_FORMA_APRESENT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FORMA_PASSAGEM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_MULTI_LINHA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OBRIGATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIGEM_INFORMACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_IN" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_LINHA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_APRESENT" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOCALIZAR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA_HTML" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_BYTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_SPAN" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="VL_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="VL_PADRAO_TESTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_CONVENIO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Convenio" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_FORMA_APRESENT="mul" IE_FORMA_PASSAGEM="W" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="JOSEO" NR_LINHA="" NR_SEQ_APRESENT="15" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="3499456" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="205" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[Select cd_convenio cd, ds_convenio ds
+from convenio
+order by ds_convenio]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_EVOLUCAO_CLINICA" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Tipo de Evolução" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_FORMA_APRESENT="mul" IE_FORMA_PASSAGEM="W" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="JOSEO" NR_LINHA="" NR_SEQ_APRESENT="14" NR_SEQ_LOCALIZAR="5742" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="3499457" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="205" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select
+CD_TIPO_EVOLUCAO cd,
+DS_TIPO_EVOLUCAO ds
+from
+TIPO_EVOLUCAO
+where ie_situacao = 'A'
+order by 2]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="CD_MEDICO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Prescritor" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_FORMA_APRESENT="mul" IE_FORMA_PASSAGEM="W" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="JOSEO" NR_LINHA="" NR_SEQ_APRESENT="16" NR_SEQ_LOCALIZAR="11935" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="3499458" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="205" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[select
+CD_PESSOA_FISICA cd,
+NM_GUERRA ds
+from
+MEDICO
+order by 2]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DT_FINAL" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Data final" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="DATE" IE_TIPO_IN="" NM_USUARIO="JOSEO" NR_LINHA="" NR_SEQ_APRESENT="3" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="3499459" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="70" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[##/##/####]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DT_INICIAL" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Data início" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="29/06/2020 15:25:21" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="DATE" IE_TIPO_IN="" NM_USUARIO="JOSEO" NR_LINHA="" NR_SEQ_APRESENT="1" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="3499460" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="70" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[##/##/####]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="TIPO_RELATORIO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Tipo" DS_VALOR_PARAMETRO="Analítico=A,Sintético=S," DT_ATUALIZACAO="29/06/2020 15:25:21" IE_FORMA_APRESENT="rg" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="JOSEO" NR_LINHA="" NR_SEQ_APRESENT="17" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2848444" NR_SEQUENCIA="3499461" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="200" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_FUNCAO">
+      <campos> 
+        <campo nm_atributo="CD_FUNCAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CONFIGURAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_EXIGE_PERFIL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LIBERADO_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LOGO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COPIA" ie_tipo_atributo="NUMBER"/>
+      </campos>
+      <registros>
+        <registro CD_FUNCAO="410" DT_ATUALIZACAO="11/07/2020 11:17:57" IE_CONFIGURAR="N" IE_EXIGE_PERFIL="S" IE_IMPRIMIR="S" IE_LIBERADO_CLIENTE="S" IE_LOGO="S" NM_USUARIO="JOSEO" NR_SEQ_RELATORIO="2848444" QT_COPIA="1" />
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_FUNCAO_REGRA_RELAT">
+      <campos> 
+        <campo nm_atributo="CD_ESTABELECIMENTO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_REGRA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL_VALIDACAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_ETIQUETA">
+      <campos> 
+        <campo nm_atributo="DS_CAMPOS_IDENT_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPOS_SENSIVEIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_IMPRESSORA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_DOCUMENTACAO">
+      <campos> 
+        <campo nm_atributo="CD_DOCUMENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBJETIVO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_CLASSIFICACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_TIPO_CLASSIFICACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NM_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_VARIAVEL">
+      <campos> 
+        <campo nm_atributo="DS_VALOR_INICIAL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CLASSE_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OPERACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+  </Tabelas>
+</Relatorios>

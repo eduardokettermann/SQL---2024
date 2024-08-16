@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<Relatorios>
+  <Tabelas>
+    <Tabela nm_tabela="W_RELATORIO">
+      <campos> 
+        <campo nm_atributo="CD_CGC_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_PAIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_WHEB" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_WHEB" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_VERSION" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_ACTION_NAME" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PROCEDURE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REPORT_TITLE_CUSTOM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_LAST_MODIFICATION" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_AUTO_AJUSTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CHAMADA_DIRETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ETIQUETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_EXCEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_HTML" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_TEXTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_WORD" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_BASE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_PAPEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_MOD_IMPL" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_MODULO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_VERSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESPACO_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_LARGURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_DIR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_ESQ" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_INF" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_SUP" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TITULO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_CGC_CLIENTE="87768735000148" CD_CLASSIF_RELAT="CATE" CD_CLASSIF_RELAT_PAIS="" CD_CLASSIF_RELAT_WHEB="" CD_PAIS="" CD_RELATORIO="1410" CD_RELATORIO_PAIS="" CD_RELATORIO_WHEB="" CD_VERSION="28727" DS_ACTION_NAME="" DS_COR_FUNDO="clWhite" DS_PROCEDURE="ABATER_VALOR_ACRESC_TIT_LIQ" DS_REPORT_TITLE_CUSTOM="" DT_ATUALIZACAO="05/10/2023 11:53:25" DT_LAST_MODIFICATION="05/10/2023 11:53:25" IE_AJUSTAR_TAMANHO="" IE_AUTO_AJUSTE="" IE_BORDA_DIR="S" IE_BORDA_ESQ="S" IE_BORDA_INF="S" IE_BORDA_SUP="S" IE_CHAMADA_DIRETA="" IE_ETIQUETA="S" IE_FILTRO_EXCEL="S" IE_FILTRO_HTML="S" IE_FILTRO_TEXTO="S" IE_FILTRO_WORD="S" IE_GERAR_BASE="S" IE_GERAR_RELATORIO="S" IE_IMPRIME_VAZIO="S" IE_ORIENTACAO="R" IE_TIPO_PAPEL="A4" IE_TIPO_RELATORIO="" NM_TABELA="" NM_USUARIO="JOSEO" NR_SEQ_MOD_IMPL="" NR_SEQ_MODULO="169" NR_SEQ_ORDEM_SERV="" NR_SEQUENCIA="2856928" NR_VERSAO="" QT_ALTURA="" QT_COLUNA="1" QT_ESPACO_COLUNA="0" QT_LARGURA="" QT_MARGEM_DIR="10" QT_MARGEM_ESQ="10" QT_MARGEM_INF="20" QT_MARGEM_SUP="10" >
+          <DS_SQL><![CDATA[SELECT '' MED1,'' MED2,'' MED3,'' MED4,'' MED5,'' DOSE1,'' DOSE2,'' DOSE3,'' DOSE4, '' DOSE5,TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY HH24:MI')DS_HORARIO,A.DT_HORARIO,TO_CHAR(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10))DT,TO_CHAR(TO_DATE(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10),'DD/MM/YYYY')+1,'DD/MM/YYYY') DT2,
+A.NM_PESSOA2,A.DS_MATERIAL,A.NR_HORARIO,A.DS_LEITO,A.DS_DOSE,decode(a.ds_via,'Via: Inalatória','Via: Inalatoria',a.ds_via) ds_via,A.DS_DIL1,A.DS_DIL2,A.DS_DIL3,A.DS_DIL4,A.DS_DIL5,A.DS_DIL6,A.DS_DIL7,a.ds_observacao,A.IE_TIPO_ITEM
+FROM HCB_ADEP_MATERIAIS2 A WHERE A.NR_ATENDIMENTO = :NR_ATENDIMENTO AND ((HCB_OBTER_SE_SN_ADEP(:NR_SEQ_HORARIO) = 'S' AND A.IE_SE_NECESSARIO = 'S') OR (HCB_OBTER_SE_SN_ADEP(:NR_SEQ_HORARIO) = 'N' AND A.IE_SE_NECESSARIO = 'N' AND ((SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('19','20','21','22','23')
+AND TO_CHAR(TO_DATE(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10),'DD/MM/YYYY')+1,'DD/MM/YYYY') = TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY'))
+OR (TO_CHAR(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10)) = TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY')))AND((SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('07','08','09','10','11','12')
+AND TO_CHAR(A.DT_HORARIO,'HH24') IN ('07','08','09','10','11','12'))OR(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('13','14','15','16','17','18')
+AND TO_CHAR(A.DT_HORARIO,'HH24')IN ('13','14','15','16','17','18'))OR(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('19','20','21','22','23','00','01','02','03','04','05','06')
+AND TO_CHAR(A.DT_HORARIO,'HH24') IN ('19','20','21','22','23','00','01','02','03','04','05','06')))))UNION ALL SELECT A.MED1, A.MED2, A.MED3, A.MED4, A.MED5,A.DOSE1,A.DOSE2,A.DOSE3,A.DOSE4,A.DOSE5,TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY HH24:MI')DS_HORARIO,A.DT_HORARIO,TO_CHAR(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10))DT,TO_CHAR(TO_DATE(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10),'DD/MM/YYYY')+1,'DD/MM/YYYY') DT2,
+A.NM_PESSOA2,A.DS_MATERIAL,A.NR_HORARIO,A.DS_LEITO,A.DS_DOSE,' ' DS_VIA,A.DS_DIL1,A.DS_DIL2,A.DS_DIL3,A.DS_DIL4,A.DS_DIL5,A.DS_DIL6,A.DS_DIL7,a.ds_observacao,decode(a.ie_tipo_item,'G','P','P') ie_tipo_item
+FROM HCB_ADEP_PROCEDIMENTOS2 A WHERE A.NR_ATENDIMENTO = :NR_ATENDIMENTO AND ((HCB_OBTER_SE_SN_ADEP(:NR_SEQ_HORARIO) = 'S' AND A.IE_SE_NECESSARIO = 'S')
+OR (HCB_OBTER_SE_SN_ADEP(:NR_SEQ_HORARIO) = 'N' AND A.IE_SE_NECESSARIO = 'N' AND ((SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('19','20','21','22','23')
+AND TO_CHAR(TO_DATE(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10),'DD/MM/YYYY')+1,'DD/MM/YYYY') = TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY'))OR (TO_CHAR(SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),1,10)) = TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY')))
+AND ((SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('07','08','09','10','11','12')AND SUBSTR(TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY hh24:mi:ss'),12,2) IN ('07','08','09','10','11','12'))
+OR (SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('13','14','15','16','17','18')AND SUBSTR(TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY hh24:mi:ss'),12,2) IN ('13','14','15','16','17','18'))
+OR (SUBSTR(PLT_OBTER_DADOS_HOR_ITEM(:NR_SEQ_HORARIO,:IE_TIPO_ITEM,'H'),12,2) IN ('19','20','21','22','23','00','01','02','03','04','05','06')AND SUBSTR(TO_CHAR(A.DT_HORARIO,'DD/MM/YYYY hh24:mi:ss'),12,2) IN ('19','20','21','22','23','00','01','02','03','04','05','06')))))
+ORDER BY ds_horario,IE_TIPO_ITEM, DS_MATERIAL]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_TITULO><![CDATA[HCB - Etiqueta ADEP Novo]]></DS_TITULO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELATORIO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FOOTER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_HEADER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_ALTERNA_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BANDA_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DIRECTION" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FUNDO_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_PRIMEIRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_REIMPRIME_NOVA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA_SUPERIOR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MAX_REGISTRO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_CAMPO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ESTILO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TIPO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAMENTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAR_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALTERA_VALOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CAMPO_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATAMATRIX_MODULE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATE_TYPE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_HUMANO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_INFO_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_METODO_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_POSICAO_LEGENDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SENSIVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="IE_TOTALIZAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ZERA_APOS_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TIME_ZONE_ATTRIBUTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOGO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="PR_ALTURA_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESQUERDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_FONTE_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_FONTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TOPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_PARAMETRO">
+      <campos> 
+        <campo nm_atributo="CD_DOMINIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ALIAS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA_BKP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_VALOR_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_FORMA_APRESENT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FORMA_PASSAGEM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_MULTI_LINHA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OBRIGATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIGEM_INFORMACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_IN" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_LINHA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_APRESENT" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOCALIZAR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA_HTML" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_BYTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_SPAN" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="VL_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="VL_PADRAO_TESTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOMINIO="" CD_PARAMETRO="NR_ATENDIMENTO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Atendimento" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="08/09/2021 16:10:59" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="P" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="RAFAELG" NR_LINHA="" NR_SEQ_APRESENT="1" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="3529819" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="100" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="NR_SEQ_HORARIO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Horário" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="08/09/2021 16:10:59" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="P" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="RAFAELG" NR_LINHA="" NR_SEQ_APRESENT="2" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="3529820" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="100" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="IE_TIPO_ITEM" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Tipo" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="08/09/2021 16:10:59" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="P" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="" NM_USUARIO="RAFAELG" NR_LINHA="" NR_SEQ_APRESENT="3" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="3529821" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="100" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_FUNCAO">
+      <campos> 
+        <campo nm_atributo="CD_FUNCAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CONFIGURAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_EXIGE_PERFIL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LIBERADO_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LOGO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COPIA" ie_tipo_atributo="NUMBER"/>
+      </campos>
+      <registros>
+        <registro CD_FUNCAO="1113" DT_ATUALIZACAO="13/02/2023 15:00:02" IE_CONFIGURAR="N" IE_EXIGE_PERFIL="S" IE_IMPRIMIR="S" IE_LIBERADO_CLIENTE="S" IE_LOGO="S" NM_USUARIO="JOSEO" NR_SEQ_RELATORIO="2856928" QT_COPIA="1" />
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_FUNCAO_REGRA_RELAT">
+      <campos> 
+        <campo nm_atributo="CD_ESTABELECIMENTO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_REGRA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL_VALIDACAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_ETIQUETA">
+      <campos> 
+        <campo nm_atributo="DS_CAMPOS_IDENT_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPOS_SENSIVEIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_IMPRESSORA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_CAMPOS_IDENT_PACIENTE="" DS_CAMPOS_SENSIVEIS="" DT_ATUALIZACAO="25/08/2023 08:54:14" NM_USUARIO="JOSEO" NR_SEQ_IMPRESSORA="22" NR_SEQ_RELATORIO="2856928" >
+          <DS_CONTEUDO><![CDATA[q831
+rN
+S1
+D7
+ZT
+JF
+R20,0
+N
+A170,5,0,3,1,1,N,"&NM_PESSOA2"
+A170,28,0,2,1,1,N,"&DS_LEITO"
+A170,47,0,2,1,1,N,"&DS_MATERIAL"
+A170,66,0,2,1,1,N,"&DS_DOSE"
+A170,85,0,2,1,1,N,"Horário: &DS_HORARIO"
+A170,104,0,2,1,1,N,"&DS_VIA"
+A170,123,0,2,1,1,N,"&DS_DIL1"
+A170,142,0,2,1,1,N,"&DS_DIL2"
+A170,161,0,2,1,1,N,"&DS_DIL3"
+A170,180,0,2,1,1,N,"&DS_DIL4"
+A170,199,0,2,1,1,N,"&DS_DIL5"
+A170,218,0,2,1,1,N,"&DS_DIL6"
+A170,237,0,2,1,1,N,"&DS_DIL7"
+A170,256,0,2,1,1,N,"&DS_OBSERVACAO"
+A170,130,0,1,1,1,N,"&MED1"
+A170,150,0,1,1,1,N,"&DOSE1"
+A170,170,0,1,1,1,N,"&MED2"
+A170,190,0,1,1,1,N,"&DOSE2"
+A170,210,0,1,1,1,N,"&MED3"
+A170,230,0,1,1,1,N,"&DOSE3"
+A170,250,0,1,1,1,N,"&MED4"
+A170,270,0,1,1,1,N,"&DOSE4"
+A170,290,0,1,1,1,N,"&MED5"
+A170,310,0,1,1,1,N,"&DOSE5"
+P1
+FE]]></DS_CONTEUDO>
+</registro>
+        <registro DS_CAMPOS_IDENT_PACIENTE="" DS_CAMPOS_SENSIVEIS="" DT_ATUALIZACAO="25/08/2023 08:56:56" NM_USUARIO="JOSEO" NR_SEQ_IMPRESSORA="416" NR_SEQ_RELATORIO="2856928" >
+          <DS_CONTEUDO><![CDATA[q831
+rN
+S1
+D7
+ZT
+JF
+R20,0
+N
+A170,5,0,3,1,1,N,"&NM_PESSOA2"
+A170,28,0,2,1,1,N,"&DS_LEITO"
+A170,47,0,2,1,1,N,"&DS_MATERIAL"
+A170,66,0,2,1,1,N,"&DS_DOSE"
+A170,85,0,2,1,1,N,"Horário: &DS_HORARIO"
+A170,104,0,2,1,1,N,"&DS_VIA"
+A170,123,0,2,1,1,N,"&DS_DIL1"
+A170,142,0,2,1,1,N,"&DS_DIL2"
+A170,161,0,2,1,1,N,"&DS_DIL3"
+A170,180,0,2,1,1,N,"&DS_DIL4"
+A170,199,0,2,1,1,N,"&DS_DIL5"
+A170,218,0,2,1,1,N,"&DS_DIL6"
+A170,237,0,2,1,1,N,"&DS_DIL7"
+A170,256,0,2,1,1,N,"&DS_OBSERVACAO"
+A170,130,0,1,1,1,N,"&MED1"
+A170,150,0,1,1,1,N,"&DOSE1"
+A170,170,0,1,1,1,N,"&MED2"
+A170,190,0,1,1,1,N,"&DOSE2"
+A170,210,0,1,1,1,N,"&MED3"
+A170,230,0,1,1,1,N,"&DOSE3"
+A170,250,0,1,1,1,N,"&MED4"
+A170,270,0,1,1,1,N,"&DOSE4"
+A170,290,0,1,1,1,N,"&MED5"
+A170,310,0,1,1,1,N,"&DOSE5"
+P1
+FE]]></DS_CONTEUDO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_DOCUMENTACAO">
+      <campos> 
+        <campo nm_atributo="CD_DOCUMENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBJETIVO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_CLASSIFICACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_TIPO_CLASSIFICACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NM_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="61061" CD_PF_SOLIC="96210" DS_OBJETIVO="" DS_OBSERVACAO="
+Foi acrescentado a restrição abaixo na linha 27 da view HCB_ADEP_MATERIAIS2
+AND B.NR_SEQUENCIA=A.NR_SEQ_ITEM" DT_ATUALIZACAO="20/05/2022 16:55:44" DT_ATUALIZACAO_NREC="" DT_CLASSIFICACAO="" IE_TIPO_CLASSIFICACAO="" NM_USUARIO="JOSEO" NM_USUARIO_NREC="" NR_SEQ_ORDEM_SERV="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="148" NM_PF_SOLIC="PAULA CORREA MACHADO FELIN" NM_PF_CRIADOR="JOSE ORIVALDO SILVA DE LARA" />
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="61061" CD_PF_SOLIC="40306" DS_OBJETIVO="" DS_OBSERVACAO="Ajuste na View HCB_ADEP_MATERIAIS2
+Foi criado um union all na linha 162 para duplicar as impressões materiais
+na linha 192 acrescentamos os materiais que deve imprimir duplicado a etiqueta (1269,1477,1483,1525,9221,61609)
+
+Ajuste no relatório
+Foi acrescentado no union um all, para puxar duplicado os respectivos materiais" DT_ATUALIZACAO="03/10/2022 11:05:13" DT_ATUALIZACAO_NREC="" DT_CLASSIFICACAO="03/10/2022 10:43:40" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="JOSEO" NM_USUARIO_NREC="" NR_SEQ_ORDEM_SERV="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="149" NM_PF_SOLIC="FERNANDA FONTOURA" NM_PF_CRIADOR="JOSE ORIVALDO SILVA DE LARA" />
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="61061" CD_PF_SOLIC="251930" DS_OBJETIVO="" DS_OBSERVACAO="Foi alterado nas linhas 2 e 9 o atributo A.NM_PESSOA2 por (decode(obter_setor_prescricao(a.nr_prescricao,'C'), 48,'CC - ',87,'CC - ')|| A.NM_PESSOA2)NM_PESSOA2, dessa forma vai aparecer antes do nome do paciente um ?CC?, para prescrições feitas na sala de recuperação e Centro Cirúrgico." DT_ATUALIZACAO="13/02/2023 08:44:17" DT_ATUALIZACAO_NREC="" DT_CLASSIFICACAO="13/02/2023 08:44:07" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="JOSEO" NM_USUARIO_NREC="" NR_SEQ_ORDEM_SERV="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="150" NM_PF_SOLIC="ANDREIA ROSA DOS SANTOS" NM_PF_CRIADOR="JOSE ORIVALDO SILVA DE LARA" />
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="61061" CD_PF_SOLIC="184094" DS_OBJETIVO=" melhoria na etiqueta - no lugar de abreviar a via, colocar nome completo (Ex INALATÓRIO ao invé de IN) ou então repetir a via de administração logo abaixo na etiqueta onde tem descrito tipo do medicamento e horário." DS_OBSERVACAO="Alteração realizado na view HCB_ADEP_MATERIAIS2 adicionado coluna 
+ 'Via: '||obter_desc_via(B.ie_via_aplicacao)DS_VIA
+
+e adicionado linha nova no relatório referente a DS_VIA e linha nova 
+na etiqueta. " DT_ATUALIZACAO="28/06/2023 09:02:16" DT_ATUALIZACAO_NREC="" DT_CLASSIFICACAO="28/06/2023" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="MARILIASF" NM_USUARIO_NREC="" NR_SEQ_ORDEM_SERV="" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="151" NM_PF_SOLIC="DEBORA BOELTER CARDOSO" NM_PF_CRIADOR="JOSE ORIVALDO SILVA DE LARA" />
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="61061" CD_PF_SOLIC="40306" DS_OBJETIVO="" DS_OBSERVACAO="1 - Foi alterado a ordenação do relatório para trazer primeiro por horário e depois por tipo de item e descrição do material.
+
+2 - Foi alterado a view HCB_ADEP_MATERIAIS2 na linha 70 para não trazer mais medicamentos vinculados a gasoterapia, os medicamentos vão passar a sair todos juntos na etiqueta da gasoterapia e na linha 78 foi acrescentado o trecho de código "and Obter_Status_Gasoterapia_n(b.nr_sequencia) = 'N'" e comentado a função anterior na linha 79.
+
+3 - Na view HCB_ADEP_PROCEDIMENTOS2 foi comentado na linha 46 a função nvl(substr(Obter_Status_Gasoterapia(b.nr_sequencia, 'C'),1,80),'N') = 'N' e acrescentado na linha 46 a função Obter_Status_Gasoterapia_n(b.nr_sequencia) = 'N'
+
+4- Foi criado a função Obter_Status_Gasoterapia_n(b.nr_sequencia) para substituir nas views HCB_ADEP_MATERIAIS2  e HCB_ADEP_PROCEDIMENTOS2 a function nvl(substr(Obter_Status_Gasoterapia(b.nr_sequencia, 'C'),1,80),'N')" DT_ATUALIZACAO="05/10/2023 11:53:24" DT_ATUALIZACAO_NREC="05/10/2023 11:53:00" DT_CLASSIFICACAO="05/10/2023 11:53:12" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="JOSEO" NM_USUARIO_NREC="JOSEO" NR_SEQ_ORDEM_SERV="129574" NR_SEQ_RELATORIO="2856928" NR_SEQUENCIA="153" NM_PF_SOLIC="FERNANDA FONTOURA" NM_PF_CRIADOR="JOSE ORIVALDO SILVA DE LARA" />
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_VARIAVEL">
+      <campos> 
+        <campo nm_atributo="DS_VALOR_INICIAL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CLASSE_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OPERACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+  </Tabelas>
+</Relatorios>

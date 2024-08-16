@@ -1,0 +1,6 @@
+/*TEMPO MÉDIO PRIMEIRO ESTÁGIO*/
+
+select 
+trunc(round(HCB_OBTER_TEMPO_PRIM_TRIAGEM(:DT_INICIAL,:DT_FINAL,2,82),2))
+from	
+dual;

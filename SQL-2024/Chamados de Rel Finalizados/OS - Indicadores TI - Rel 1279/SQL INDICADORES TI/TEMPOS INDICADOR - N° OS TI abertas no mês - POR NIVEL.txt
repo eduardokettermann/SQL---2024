@@ -1,0 +1,13 @@
+select 
+round((AVG(Obter_Min_Entre_Datas(a.DT_ORDEM_SERVICO,a.DT_FIM_REAL,1))/60)/24,2) ||' Dias' tempo,
+DECODE(A.NR_SEQ_COMPLEX,'2', 'Nível 1 (Risco a segurança do paciente)', '3', 'Nível 2 (Cliente, prazos legais, cobrança e faturamento)','4','Nível 3 (Outros)', '6','Nível 1 (Risco a segurança do paciente)','7','Nível 2 (Cliente, prazos legais, cobrança e faturamento)','8','Nível 3 (Outros)') DS_COMPLEXIDADE
+from 
+MAN_ORDEM_SERVICO a
+where
+(A.dt_ordem_servico between :DT_INICIAL and fim_dia(:DT_FINAL))
+and A.nr_seq_wheb is null  
+--and A.ie_status_ordem =  '3' 
+and A.nr_grupo_trabalho =  '2'
+and A.nr_seq_estagio in (select nr_sequencia  from man_estagio_processo  where ie_acao = 1) 
+and A.nr_seq_meta_pe is null group by DECODE(A.NR_SEQ_COMPLEX,'2', 'Nível 1 (Risco a segurança do paciente)', '3', 'Nível 2 (Cliente, prazos legais, cobrança e faturamento)','4','Nível 3 (Outros)', '6','Nível 1 (Risco a segurança do paciente)','7','Nível 2 (Cliente, prazos legais, cobrança e faturamento)','8','Nível 3 (Outros)') 
+ORDER BY 2
